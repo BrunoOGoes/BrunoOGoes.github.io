@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "BOG"
+title: "$\langle B \vert O \vert G \rangle$"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# $\langle B \vert O \vert G \rangle$
+
 I hold a Ph.D. in Physics, with a specialization in Nanophysics from Université de Grenoble Alpes, France (2023), a master's in physics (2020), and a major in Physics (2018), both from the University of São Paulo, Brazil. 
 
 With a robust technical background encompassing expertise in mathematics, statistics, and physics, I specialize in theoretical modeling for quantum technology-driven experiments.
