@@ -1,15 +1,30 @@
 ---
-title: "Paper Title Number 1"
+title: "Quantum features of entropy production in driven-dissipative transitions"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 10.1103/PhysRevResearch.2.013136
+excerpt: 'The physics of driven-dissipative transitions is currently a topic of great interest, particularly in quantum
+optical systems. These transitions occur in systems kept out of equilibrium and are therefore characterized
+by a finite entropy production rate. However, very little is known about how the entropy production behaves
+around criticality, and all of it is restricted to classical systems. Using quantum phase-space methods, we put
+forth a framework that allows for the complete characterization of the entropy production in driven-dissipative
+transitions. Our framework is tailored specifically to describe photon loss dissipation, which is effectively a
+zero-temperature process for which the standard theory of entropy production breaks down. As an application,
+we study the open Dicke and Kerr models, which present continuous and discontinuous transitions, respectively.
+We find that the entropy production naturally splits into two contributions. One matches the behavior observed
+in classical systems. The other diverges at the critical point.'
+date: 2020-02-07
+venue: 'Physical Review Research'
+paperurl: 'https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.013136'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+The physics of driven-dissipative transitions is currently a topic of great interest, particularly in quantum
+optical systems. These transitions occur in systems kept out of equilibrium and are therefore characterized
+by a finite entropy production rate. However, very little is known about how the entropy production behaves
+around criticality, and all of it is restricted to classical systems. Using quantum phase-space methods, we put
+forth a framework that allows for the complete characterization of the entropy production in driven-dissipative
+transitions. Our framework is tailored specifically to describe photon loss dissipation, which is effectively a
+zero-temperature process for which the standard theory of entropy production breaks down. As an application,
+we study the open Dicke and Kerr models, which present continuous and discontinuous transitions, respectively.
+We find that the entropy production naturally splits into two contributions. One matches the behavior observed
+in classical systems. The other diverges at the critical point.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.013136)
