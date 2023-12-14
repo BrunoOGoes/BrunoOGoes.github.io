@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "$\langle B \vert O \vert G \rangle$"
+title: "$Bruno O. Goes, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,3 +17,5 @@ Eager to transition to an industry career, my interests extend beyond quantum te
 Proficiencies: Mathematical modeling, Data Analysis, Data Visualization, Data Treatment, Data Storytelling, Management, Outreach, Python, Mathematica.
 
 Areas of Interest: Quantum Information Theory, Quantum Technologies, Quantum Thermodynamics, Machine Learning, Data Science
+
+$\langle B \vert O \vert G \rangle$
