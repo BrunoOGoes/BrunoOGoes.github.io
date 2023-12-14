@@ -1,7 +1,7 @@
 ---
 title: "Wehrl entropy production rate across a dynamical quantum phase transition"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.033419
 excerpt: 'The quench dynamics of many-body quantum systems may exhibit nonanalyticities in the Loschmidt echo,
 a phenomenon known as dynamical phase transition (DPT). Despite considerable research into the underlying
 mechanisms behind this phenomenon, several open questions still remain. Motivated by this, we put forth a
@@ -18,10 +18,10 @@ identify the relative contribution of the low-energy sector to the emergence of 
 this article are relevant not only from the dynamical quantum phase transition perspective but also for the field
 of quantum thermodynamics, since they point out that the Wehrl entropy can be used as a viable measure of
 entropy production.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2020-09-15
+venue: 'Physical Review Research'
+paperurl: 'https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.033419'
+citation: 'B. O. Goes, G. T. Landi, E. Solano, M. Sanz and L. C. Céleri, "Wehrl entropy production rate across a dynamical quantum phase transition”, Phys. Rev. Res., 2, 033419 (2020)'
 ---
 The quench dynamics of many-body quantum systems may exhibit nonanalyticities in the Loschmidt echo,
 a phenomenon known as dynamical phase transition (DPT). Despite considerable research into the underlying
@@ -40,6 +40,6 @@ this article are relevant not only from the dynamical quantum phase transition p
 of quantum thermodynamics, since they point out that the Wehrl entropy can be used as a viable measure of
 entropy production.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.033419)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: **B. O. Goes**, G. T. Landi, E. Solano, M. Sanz and L. C. Céleri, "Wehrl entropy production rate across a dynamical quantum phase transition”, Phys. Rev. Res., 2, 033419 (2020).
