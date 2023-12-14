@@ -12,4 +12,4 @@ Driven-dissipative phase transitions are currently a topic of intense research d
 
 [Download paper here](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.052202)
 
-Recommended citation: **Bruno O. Goes, Gabriel T. Landi, “Entropy production dynamics in quench protocols of a driven-dissipative critical system”, Phys. Rev. A., 102, 052202 (2020).
+Recommended citation: **Bruno O. Goes**, Gabriel T. Landi, “Entropy production dynamics in quench protocols of a driven-dissipative critical system”, Phys. Rev. A., 102, 052202 (2020).
