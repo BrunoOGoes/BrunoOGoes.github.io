@@ -30,3 +30,5 @@ in classical systems. The other diverges at the critical point.
 [Download paper here](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.013136)
 
 Recommended citation: **Bruno O. Goes**, Carlos E. Fiore and Gabriel T. Landi, "Quantum features of entropy production in driven-dissipative transitions”, Physical Review Research, 2, 013136 (2020). 
+
+[Download paper here](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.033419)
