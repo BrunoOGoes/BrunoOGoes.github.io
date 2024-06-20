@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* **Disclaimer:** The technical publications shared on this website are authored by me and do not represent the opinions of my current or former employers unless explicitly mentioned.*
+*** **Disclaimer:** The technical publications shared on this website are authored by me and do not represent the opinions of my current or former employers unless explicitly mentioned. ***
 
 I am Bruno Ortega Goes, currently working as an Algorithm Engineer in the R&D team at Applied Materials. I am also a trained theoretical physicist with contributions in the fields of quantum thermodynamics and quantum technologies. Check out my publications page and/or my Google Scholar.
 
