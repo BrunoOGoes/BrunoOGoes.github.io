@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I hold a Ph.D. in Physics, with a specialization in Nanophysics from Université de Grenoble Alpes, France (2023), a master's in physics (2020), and a major in Physics (2018), both from the University of São Paulo, Brazil. 
+* **Disclaimer:** The technical publications shared on this website are authored by me and do not represent the opinions of my current or former employers unless explicitly mentioned.*
 
-With a robust technical background encompassing expertise in mathematics, statistics, and physics, I specialize in theoretical modeling for quantum technology-driven experiments.
+I am Bruno Ortega Goes, currently working as an Algorithm Engineer in the R&D team at Applied Materials. I am also a trained theoretical physicist with contributions in the fields of quantum thermodynamics and quantum technologies. Check out my publications page and/or my Google Scholar.
 
-Eager to transition to an industry career, my interests extend beyond quantum technologies to include machine learning and real-world data modeling. My passion for data storytelling drives my goal to apply cultivated Machine Learning techniques, gained through coursework and mentorship programs, to offer practical solutions to real-world challenges. Additionally, I'm open to roles that drive advancements in quantum technologies within the industry.
+I hold a Ph.D. in Physics with a specialization in Nanophysics from Université de Grenoble Alpes, France (2023), as well as a Master’s (2020) and Bachelor’s (2018) in Physics from the University of São Paulo, Brazil.
+
+I like to describe myself as a 'quantum engineer' because I leverage the knowledge and methodologies I developed during my research in quantum physics to create solutions for timely and real-world contemporary challenges.
+
+At Applied Materials, I develop algorithms for software that analyzes Scanning Electron Microscope (SEM) images, leveraging my knowledge and continually learning more about semiconductor physics, software development, mathematical methods, and machine and deep learning.
+
+For further information about my academic and professional experiences, you can check my transcripts, CV, résumé, and LinkedIn profile.
 
 Proficiencies: Mathematical modeling, Data Analysis, Data Visualization, Data Treatment, Data Storytelling, Management, Outreach, Python, Mathematica.
 
