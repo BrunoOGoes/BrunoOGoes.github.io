@@ -1,4 +1,3 @@
-
 ---
 title: "Anomalous energy exchanges and Wigner-function negativities in a single-qubit gates"
 collection: publications
