@@ -1,5 +1,11 @@
 ---
+title: ""
 collection: publications
+permalink: 
+excerpt: ''
+date: 2020-02-07
+venue: ''
+paperurl: ''
 ---
 **"Anomalous energy exchanges and Wigner-function negativities in a single-qubit gates"**
 

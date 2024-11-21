@@ -1,5 +1,11 @@
 ---
+title: ""
 collection: publications
+permalink: 
+excerpt: ''
+date: 2020-02-07
+venue: ''
+paperurl: ''
 ---
 **Objetivo:** Organizar seus papers e contribuições acadêmicas de forma clara e acessível.
 
