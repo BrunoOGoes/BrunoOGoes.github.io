@@ -1,4 +1,6 @@
-
+---
+collection: publications
+---
 **Objetivo:** Organizar seus papers e contribuições acadêmicas de forma clara e acessível.
 
 - **Lista de artigos:**
