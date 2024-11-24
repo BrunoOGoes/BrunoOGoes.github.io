@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bruno's home" #"Bruno Ortega Goes, PhD / $\langle B \vert O \vert G\rangle$"
+title                    : "Bruno Ortega Goes, PhD" #" / $\langle B \vert O \vert G\rangle$"
 title_separator          : "-"
 name                     : &name 
 description              : &description 
