@@ -2,7 +2,7 @@
 title: "Anomalous energy exchanges and Wigner-function negativities in a single-qubit gates"
 collection: publications
 permalink: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.023710
-excerpt: ''
+excerpt: 'blabla'
 date: 2022-10-26
 venue: 'Physical Review A'
 paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.023710'
