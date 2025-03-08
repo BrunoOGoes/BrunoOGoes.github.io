@@ -34,7 +34,7 @@ The work developed during these years were published in prestigious peer-reviewe
 
 ### PhD in nanophysics: getting closer to experiments
 
-By the time I was finishing my master's, I was looking for opportunities that would allow me to have a closer collaboration with experimentalists. This led me to change countries and pursue my PhD in Grenoble, France, in the [Quantum Energy Team ($\vert QET \rangle$)](https://quantum-energy-team.cnrs.fr/) of Professor Alexia Auffèves as an Early Stage Researcher (ESR) in the [QUDOT-TECH](https://qudot-tech.cea.fr/) project, an EU Horizon 2020 Research and Innovation Marie Curie Programme. 
+By the time I was finishing my master's, I was looking for opportunities that would allow me to have a closer collaboration with experimentalists. This led me to change countries and pursue my PhD in Grenoble, France, in the [Quantum Energy Team](https://quantum-energy-team.cnrs.fr/) ($\vert QET \rangle$) of Professor Alexia Auffèves as an Early Stage Researcher (ESR) in the [QUDOT-TECH](https://qudot-tech.cea.fr/) project, an EU Horizon 2020 Research and Innovation Marie Curie Programme. 
 
 During my three PhD years, I worked mainly on developing analytical solutions and writing computer simulations for spin-photon interfaces. I worked in close collaboration with the [C2N group](https://goss.c2n.universite-paris-saclay.fr/en/members/loic-lanco-2/) led by Loïc Lanco, focusing on problems of how to optimally imprint and extract (measure) spin information based on light-matter interactions, as well as how to observe and build non-Gaussian states of light—all with insights from top experimentalists designing state-of-the-art experiments. All these fundamental problems find applications in optical-based quantum computing platforms. 
 
@@ -83,8 +83,5 @@ After writing the section above, I thought, "This might be too long… I should 
 - **Fitness & Discipline:** Passionate about weightlifting and self-improvement.  
 
 **OBS.:** Apart from the last summary section I only used artificial inteligence, chatGPT and grammarly, to check grammar, typos and obtain structure suggestions. Any imprecision, typo, or bad phrasing is my authorship.
-
-
-
 
 $\langle B \vert O \vert G \rangle$
