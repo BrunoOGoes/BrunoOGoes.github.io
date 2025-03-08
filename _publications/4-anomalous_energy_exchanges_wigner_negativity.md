@@ -6,5 +6,5 @@ excerpt: 'Anomalous weak values and the Wigner function’s negativity are well-
 date: 2023-02-13
 venue: 'Physical Review A'
 paperurl: 'https://link.aps.org/doi/10.1103/PhysRevA.107.023710'
-citation: 'Maffei, Maria, Cyril Elouard, Bruno O. Goes, Benjamin Huard, Andrew N. Jordan, and Alexia Auffèves. “Anomalous Energy Exchanges and Wigner-Function Negativities in a Single-Qubit Gate.” Physical Review A 107, no. 2 (February 13, 2023): 023710. https://doi.org/10.1103/PhysRevA.107.023710.'
+citation: 'M. Maffei, C. Elouard, B. O. Goes, B. Huard, A. N. Jordan, and A. Auffèves, “Anomalous energy exchanges and Wigner-function negativities in a single-qubit gate,” Phys. Rev. A, vol. 107, no. 2, p. 023710, Feb. 2023, doi: 10.1103/PhysRevA.107.023710.'
 ---
