@@ -1,43 +1,15 @@
 ---
-title: "Anomalous energy exchanges and Wigner-function negativities in a single-qubit gates"
+title: "4 Entropy production dynamics in quench protocols of a driven-dissipative critical system"
 collection: publications
-permalink: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.023710
-excerpt: '
-**Research Question:**
-
-    How do quantum contextuality effects, such as anomalous weak values and Wigner function negativity, manifest in the energetics of a single-qubit gate driven by a coherent field in a waveguide?
-
-**Theoretical tools:**
-
-    Utilized a collision model to describe the joint dynamics of the qubit and field. Combined heterodyne detection with postselection to study the field’s weak values and quasiprobability distributions, including the conditional Husimi-Q and Wigner functions.
-
-**Key Results:**
-
-    Demonstrated that the field's weak values, derived from the conditional Husimi-Q function, exhibit anomalous behavior in energy variations.
-     Showed that Wigner function negativity and anomalous weak values occur simultaneously for specific gate angles.
-
-**Implications:**
-Reveals a deeper connection between quantum contextuality and the energy dynamics of qubit gates, providing insights for experimental setups like superconducting circuits and enhancing understanding of energy correlations in quantum systems.'
-date: 2022-10-26
+permalink: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.052202
+excerpt: 'Driven-dissipative phase transitions are currently a topic of intense research due to the prospect of experimental realizations in quantum optical setups. The most paradigmatic model presenting such a transition is the Kerr model, which predicts the phenomenon of optical bistability, where the system may relax to two different steady states for the same driving condition. These states, however, are inherently out-of-equilibrium and are thus characterized by the continuous production of irreversible entropy, a key quantifier in thermodynamics. In this paper, we study the dynamics of the entropy production rate in a quench scenario of the Kerr model, where the external pump is abruptly changed. This is accomplished using a recently developed formalism, based on the Husimi Q-function, which is particularly tailored for driven-dissipative and non-Gaussian bosonic systems, Goes et al. [Phys. Rev. Res. 2, 013136 (2020)]. Within this framework, the entropy production can be split into two contributions, one being extensive with the drive and describing classical irreversibility, and the other being intensive and directly related to quantum fluctuations. The latter, in particular, is found to reveal the high degree of nonadiabaticity for quenches between different metastable states.'
+date: 2020-11-03
 venue: 'Physical Review A'
-paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.023710'
+paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.052202'
+citation: 'Bruno O. Goes, Gabriel T. Landi, “Entropy production dynamics in quench protocols of a driven-dissipative critical system”, Phys. Rev. A., 102, 052202 (2020).'
 ---
-**Research Question:**
+Driven-dissipative phase transitions are currently a topic of intense research due to the prospect of experimental realizations in quantum optical setups. The most paradigmatic model presenting such a transition is the Kerr model, which predicts the phenomenon of optical bistability, where the system may relax to two different steady states for the same driving condition. These states, however, are inherently out-of-equilibrium and are thus characterized by the continuous production of irreversible entropy, a key quantifier in thermodynamics. In this paper, we study the dynamics of the entropy production rate in a quench scenario of the Kerr model, where the external pump is abruptly changed. This is accomplished using a recently developed formalism, based on the Husimi Q-function, which is particularly tailored for driven-dissipative and non-Gaussian bosonic systems, Goes et al. [Phys. Rev. Res. 2, 013136 (2020)]. Within this framework, the entropy production can be split into two contributions, one being extensive with the drive and describing classical irreversibility, and the other being intensive and directly related to quantum fluctuations. The latter, in particular, is found to reveal the high degree of nonadiabaticity for quenches between different metastable states.
 
-    How do quantum contextuality effects, such as anomalous weak values and Wigner function negativity, manifest in the energetics of a single-qubit gate driven by a coherent field in a waveguide?
+[Download paper here](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.052202)
 
-**Theoretical tools:**
-
-    Utilized a collision model to describe the joint dynamics of the qubit and field. Combined heterodyne detection with postselection to study the field’s weak values and quasiprobability distributions, including the conditional Husimi-Q and Wigner functions.
-
-**Key Results:**
-
-    * Demonstrated that the field's weak values, derived from the conditional Husimi-Q function, exhibit anomalous behavior in energy variations.
-    * Showed that Wigner function negativity and anomalous weak values occur simultaneously for specific gate angles.
-
-**Implications:**
-Reveals a deeper connection between quantum contextuality and the energy dynamics of qubit gates, providing insights for experimental setups like superconducting circuits and enhancing understanding of energy correlations in quantum systems.
-
-[Arxiv](https://arxiv.org/abs/2210.05323)
-
-Recommended citation: M. Maffei, C. Elouard, B. O. Goes, B. Huard, A. N. Jordan, and A. Auffèves, “Anomalous energy exchanges and Wigner-function negativities in a single-qubit gate,” Phys. Rev. A, vol. 107, no. 2, p. 023710, Feb. 2023, doi: 10.1103/PhysRevA.107.023710.
+Recommended citation: **Bruno O. Goes**, Gabriel T. Landi, “Entropy production dynamics in quench protocols of a driven-dissipative critical system”, Phys. Rev. A., 102, 052202 (2020).

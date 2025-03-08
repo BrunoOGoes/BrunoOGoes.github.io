@@ -1,34 +1,15 @@
 ---
-title: "Quantum features of entropy production in driven-dissipative transitions"
+title: "7 Entropy production dynamics in quench protocols of a driven-dissipative critical system"
 collection: publications
-permalink: 10.1103/PhysRevResearch.2.013136
-excerpt: 'The physics of driven-dissipative transitions is currently a topic of great interest, particularly in quantum
-optical systems. These transitions occur in systems kept out of equilibrium and are therefore characterized
-by a finite entropy production rate. However, very little is known about how the entropy production behaves
-around criticality, and all of it is restricted to classical systems. Using quantum phase-space methods, we put
-forth a framework that allows for the complete characterization of the entropy production in driven-dissipative
-transitions. Our framework is tailored specifically to describe photon loss dissipation, which is effectively a
-zero-temperature process for which the standard theory of entropy production breaks down. As an application,
-we study the open Dicke and Kerr models, which present continuous and discontinuous transitions, respectively.
-We find that the entropy production naturally splits into two contributions. One matches the behavior observed
-in classical systems. The other diverges at the critical point.'
-date: 2020-02-07
-venue: 'Physical Review Research'
-paperurl: 'https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.013136'
+permalink: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.052202
+excerpt: 'Driven-dissipative phase transitions are currently a topic of intense research due to the prospect of experimental realizations in quantum optical setups. The most paradigmatic model presenting such a transition is the Kerr model, which predicts the phenomenon of optical bistability, where the system may relax to two different steady states for the same driving condition. These states, however, are inherently out-of-equilibrium and are thus characterized by the continuous production of irreversible entropy, a key quantifier in thermodynamics. In this paper, we study the dynamics of the entropy production rate in a quench scenario of the Kerr model, where the external pump is abruptly changed. This is accomplished using a recently developed formalism, based on the Husimi Q-function, which is particularly tailored for driven-dissipative and non-Gaussian bosonic systems, Goes et al. [Phys. Rev. Res. 2, 013136 (2020)]. Within this framework, the entropy production can be split into two contributions, one being extensive with the drive and describing classical irreversibility, and the other being intensive and directly related to quantum fluctuations. The latter, in particular, is found to reveal the high degree of nonadiabaticity for quenches between different metastable states.'
+date: 2020-11-03
+venue: 'Physical Review A'
+paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.052202'
+citation: 'Bruno O. Goes, Gabriel T. Landi, “Entropy production dynamics in quench protocols of a driven-dissipative critical system”, Phys. Rev. A., 102, 052202 (2020).'
 ---
-The physics of driven-dissipative transitions is currently a topic of great interest, particularly in quantum
-optical systems. These transitions occur in systems kept out of equilibrium and are therefore characterized
-by a finite entropy production rate. However, very little is known about how the entropy production behaves
-around criticality, and all of it is restricted to classical systems. Using quantum phase-space methods, we put
-forth a framework that allows for the complete characterization of the entropy production in driven-dissipative
-transitions. Our framework is tailored specifically to describe photon loss dissipation, which is effectively a
-zero-temperature process for which the standard theory of entropy production breaks down. As an application,
-we study the open Dicke and Kerr models, which present continuous and discontinuous transitions, respectively.
-We find that the entropy production naturally splits into two contributions. One matches the behavior observed
-in classical systems. The other diverges at the critical point.
+Driven-dissipative phase transitions are currently a topic of intense research due to the prospect of experimental realizations in quantum optical setups. The most paradigmatic model presenting such a transition is the Kerr model, which predicts the phenomenon of optical bistability, where the system may relax to two different steady states for the same driving condition. These states, however, are inherently out-of-equilibrium and are thus characterized by the continuous production of irreversible entropy, a key quantifier in thermodynamics. In this paper, we study the dynamics of the entropy production rate in a quench scenario of the Kerr model, where the external pump is abruptly changed. This is accomplished using a recently developed formalism, based on the Husimi Q-function, which is particularly tailored for driven-dissipative and non-Gaussian bosonic systems, Goes et al. [Phys. Rev. Res. 2, 013136 (2020)]. Within this framework, the entropy production can be split into two contributions, one being extensive with the drive and describing classical irreversibility, and the other being intensive and directly related to quantum fluctuations. The latter, in particular, is found to reveal the high degree of nonadiabaticity for quenches between different metastable states.
 
-[Download paper here](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.013136)
+[Download paper here](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.052202)
 
-Recommended citation: **Bruno O. Goes**, Carlos E. Fiore and Gabriel T. Landi, "Quantum features of entropy production in driven-dissipative transitions”, Physical Review Research, 2, 013136 (2020). 
-
-[Download paper here](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.033419)
+Recommended citation: **Bruno O. Goes**, Gabriel T. Landi, “Entropy production dynamics in quench protocols of a driven-dissipative critical system”, Phys. Rev. A., 102, 052202 (2020).
