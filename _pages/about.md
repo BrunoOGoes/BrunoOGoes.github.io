@@ -11,8 +11,9 @@ redirect_from:
 
 ## About me
 
-Hello, I’m Bruno, a Brazilian scientist turned algorithm engineer at [Applied Materials France](https://www.appliedmaterials.com/eu/en/about/europe-overview/france-overview.html) (officially, though, I’m a consultant at [Lenatech](https://www.lennatech.com/)), who is trying to balance the urgency of client requests and the development of solutions with the tools at hand for timely, pragmatic problems posed in the company with thoroughly innovative, robust, and elegant solutions based on academic-style research. In short, a battle between an engineer and a fundamental scientist mindset. If you are reading this, you may be interested in details about my professional journey that led to this curious situation—let’s get into that from bottom to top.
+Hello, I’m Bruno, a Brazilian scientist turned algorithm engineer at [Applied Materials France](https://www.appliedmaterials.com/eu/en/about/europe-overview/france-overview.html) (officially, though, I’m a consultant at [Lennatech](https://www.lennatech.com/)), who is trying to balance the urgency of client requests and the development of solutions with the tools at hand for timely, pragmatic problems posed in the company with thoroughly innovative, robust, and elegant solutions based on academic-style research. In short, a battle between an engineer and a fundamental scientist mindset. If you are reading this, you may be interested in details about my professional journey that led to this curious situation—let’s get into that from bottom to top.
 
+### Before research: undergraduate studies
 Concerning the scientist part, I’m someone who has an interest in a diverse set of topics, ranging from history, geopolitics, and linguistics to mathematics, physics, and astronomy. When pondering pragmatically about my set of interests and the college options in Brazil, I decided to pursue a bachelor's in Physics at the Institute of Physics of the University of São Paulo, [IFUSP](http://portal.if.usp.br/ifusp/).
 
 During my 4-year undergraduate studies, I fell in love with two subjects: quantum and statistical mechanics. The latter, in particular, because it is a neat application of probability theory using the laws of physics and clearly touches all subjects of physics. Of course, the separation between mechanics, thermodynamics, etc., is only pedagogical, but here there was no way of talking about something without making connections with other areas. Besides, the reasoning and methods can be easily imported to other areas—after all, it is all based on probability, the stem framework of mathematics. 
@@ -56,25 +57,25 @@ Outside of work, I kickstart my day at the gym before heading into the office. A
 
 After writing the section above, I thought, "This might be too long… I should summarize it." So, naturally, I turned to AI for help. After letting ChatGPT crunch the text and curating the results, here's my refined, bullet-point version:
 
-#### **Technical & Analytical Skills**  
+**Technical & Analytical Skills**  
 - **Physics & Mathematics:** Solid background in quantum mechanics, statistical mechanics, and probability.  
 - **Quantum Technologies:** Experience in quantum thermodynamics and spin-photon interfaces.  
 - **Algorithm Development:** Designing solutions for semiconductor metrology.  
 - **Machine Learning & AI:** Knowledge in data science, deep learning, and numerical simulations.  
 - **Programming:** Proficient in Python, Mathematica, and computational modeling. Intermediate knowledge in Groovy and Java
 
-#### **Research & Problem-Solving**  
+**Research & Problem-Solving**  
 - **Theoretical Research:** Published papers and worked in emerging fields of physics.  
 - **Interdisciplinary Collaboration:** Worked with experimentalists in quantum optics, developers and application engineers.  
 - **Scientific Communication:** Presented research at international conferences.  
 - **Critical Thinking:** Combines an engineering and fundamental science mindset.  
 
-#### **Industry & Consulting Experience**  
+**Industry & Consulting Experience**  
 - **Algorithm Engineering:** Developing metrology and algorithms for industry.  
 - **Consulting & Client Interaction:** Balancing quick solutions with research-driven innovation.  
 - **Project Management:** Handling deadlines, teamwork, and problem-solving in a fast-paced environment.  
 
-#### **Soft Skills & Personal Interests**  
+**Soft Skills & Personal Interests**  
 - **Languages:** Fluent in Portuguese, English, and French. Can understand and read fluently in Spanish; learning Esperanto.  
 - **Teaching & Mentorship:** Experience tutoring students.  
 - **Music & Creativity:** Plays bass, guitar, and drums.  
