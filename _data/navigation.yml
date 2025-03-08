@@ -2,9 +2,6 @@
 main:
   - title: "Home"
     url: /
-    
-  - title: "About"
-    url: /about/
 
   - title: "Academic research"
     url: /publications/
@@ -12,8 +9,11 @@ main:
   # - title: "Blog Posts"
   #  url: /year-archive/  
   
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #  url: /portfolio/
+  
+  - title: "About"
+    url: /about/
 
   - title: "Résumé"
     url: /files/CV.pdf

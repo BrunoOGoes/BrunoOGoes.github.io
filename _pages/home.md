@@ -8,4 +8,4 @@ redirect_from:
   - /home.html
 ---
 
-Welcome to my website! Here you will find information about my professional journey, projects, and interests. Feel free to explore and learn more about me.
+Welcome to my website! It is still under construction, for the moment you will find information about my professional journey, projects, and interests. Feel free to explore my [publication list](https://brunoogoes.github.io/publications/) and learn more [about me](https://brunoogoes.github.io/about/).
