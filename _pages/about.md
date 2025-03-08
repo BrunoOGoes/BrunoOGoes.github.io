@@ -1,15 +1,12 @@
 ---
-permalink: /
+permalink: /about/
 title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
 <!-- Disclaimer: The technical publications shared on this website are authored by me and do not represent the opinions of my current or former employers unless explicitly mentioned. -->
-
-## About me
 
 Hello, I’m Bruno, a Brazilian scientist turned algorithm engineer at [Applied Materials France](https://www.appliedmaterials.com/eu/en/about/europe-overview/france-overview.html) (officially, though, I’m a consultant at [Lennatech](https://www.lennatech.com/)), who is trying to balance the urgency of client requests and the development of solutions with the tools at hand for timely, pragmatic problems posed in the company with thoroughly innovative, robust, and elegant solutions based on academic-style research. In short, a battle between an engineer and a fundamental scientist mindset. If you are reading this, you may be interested in details about my professional journey that led to this curious situation—let’s get into that from bottom to top.
 
