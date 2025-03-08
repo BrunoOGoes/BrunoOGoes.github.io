@@ -6,6 +6,5 @@ excerpt: 'The quench dynamics of many-body quantum systems may exhibit nonanalyt
 date: 2020-09-15
 venue: 'Physical Review Research'
 paperurl: 'https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033419'
-citation: 'B. O. Goes, G. T. Landi, E. Solano, M. Sanz, and L. C. Céleri, “Wehrl entropy production rate across a dynamical quantum phase transition,” Phys. Rev. Research, vol. 2, no. 3, p. 033419, Sep. 2020, doi: 10.1103/PhysRevResearch.2.033419.
-'
+citation: 'B. O. Goes, G. T. Landi, E. Solano, M. Sanz, and L. C. Céleri, “Wehrl entropy production rate across a dynamical quantum phase transition,” Phys. Rev. Research, vol. 2, no. 3, p. 033419, Sep. 2020, doi: 10.1103/PhysRevResearch.2.033419.'
 ---
