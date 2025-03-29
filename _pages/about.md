@@ -14,13 +14,13 @@ Hello, I’m Bruno, a Brazilian scientist turned algorithm engineer at [Applied 
 ### Before research: undergraduate studies
 Concerning the scientist part, I’m someone who has an interest in a diverse set of topics, ranging from history, geopolitics, and linguistics to mathematics, physics, and astronomy. I decided to pursue a bachelor's in Physics at the Institute of Physics of the University of São Paulo, [IFUSP](http://portal.if.usp.br/ifusp/).
 
-During my [4-year undergraduate studies](files/undergrad_record.pdf), I fell in love with two subjects: quantum and statistical mechanics. The latter, in particular, because it is a neat application of probability theory using the laws of physics and clearly touches all subjects of physics. Of course, the separation between mechanics, thermodynamics, etc., is only pedagogical, but here there was no way of talking about something without making connections with other areas. Besides, the reasoning and methods can be easily imported to other areas—after all, it is all based on probability, the stem framework of mathematics. 
+During my [4-year undergraduate studies](../files/undergrad_record.pdf), I fell in love with two subjects: quantum and statistical mechanics. The latter, in particular, because it is a neat application of probability theory using the laws of physics and clearly touches all subjects of physics. Of course, the separation between mechanics, thermodynamics, etc., is only pedagogical, but here there was no way of talking about something without making connections with other areas. Besides, the reasoning and methods can be easily imported to other areas—after all, it is all based on probability, the stem framework of mathematics. 
 
 This love for quantum mechanics and statistical mechanics led me to pursue a master's in physics at the graduate program of the same institute. I obtained funding from [CNPq](https://www.gov.br/cnpq/pt-br) and joined Professor Gabriel Landi’s group, [Quantum Thermodynamics and Quantum Transport (QT2)](https://www.pas.rochester.edu/~gtlandi/), where I wrote a thesis in quantum thermodynamics, a perfect union of my two favorite subjects in an emerging field of research.
 
 ### Masters in physics: first research experience
 
-During the [two years of my master's](files/graduate_record.pdf) in QT2, I succeeded in developing a theoretical framework to assess the entropy production rate for driven-dissipative quantum systems undergoing phase transitions. 
+During the [two years of my master's](../files/graduate_record.pdf) in QT2, I succeeded in developing a theoretical framework to assess the entropy production rate for driven-dissipative quantum systems undergoing phase transitions. 
 
 To explain shortly, “driven-dissipative” refers to the way its dynamics are modeled. It has one contribution from something that “pushes” or “drives” the system, conserving energy (unitary dynamics in the jargon of quantum mechanics), and another contribution that is “dissipative,” meaning it induces energy loss in the system, hence irreversibility. 
 
@@ -42,7 +42,7 @@ During this period, I got the chance to visit different groups in DTU and Neils 
 
 By the end of my PhD, I developed a deep interest in machine learning and deep learning. After almost 10 years in academia studying and contributing to the development of theoretical knowledge in quantum technologies, I decided it was about time to search for something challenging where I could leverage my coding, analytical, and research skills, along with my interest in artificial intelligence, to provide short-term, client-industry solutions. 
 
-To make a smooth transition, I joined a [Serasa Experian Data Lab](https://www.linkedin.com/showcase/serasa-experian-datalab/posts/?feedView=all) [mentorship program](files/DataLab_Certificado-Mentoria_Bruno.pdf). My mentor, Carlo, provided me a [solid training in data science and machine learning](https://vitaliset.github.io/tutoring-guideline/), along with tips to successfully migrate to the private sector. 
+To make a smooth transition, I joined a [Serasa Experian Data Lab](https://www.linkedin.com/showcase/serasa-experian-datalab/posts/?feedView=all) [mentorship program](../files/DataLab_Certificado-Mentoria_Bruno.pdf). My mentor, Carlo, provided me a [solid training in data science and machine learning](https://vitaliset.github.io/tutoring-guideline/), along with tips to successfully migrate to the private sector. 
 
 Finally, just after defending my thesis I got the opportunity to join [Applied Materials](https://www.appliedmaterials.com/il/en/about/israel-overview.html) to work as an algorithm engineer. Since them, I'm constantly being challenged and learning while contributing to the development of the semiconductor industry with state-of-the-art algorithms for contour-based metrological solutions.
 
