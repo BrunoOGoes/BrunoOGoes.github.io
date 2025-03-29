@@ -20,7 +20,7 @@ This love for quantum mechanics and statistical mechanics led me to pursue a mas
 
 ### Masters in physics: first research experience
 
-During the [two years of my master's](../files/graduate_record.pdf) in QT2, I succeeded in developing a theoretical framework to assess the entropy production rate for driven-dissipative quantum systems undergoing phase transitions. 
+During the [2-years of my master's](../files/graduate_record.pdf) in QT2, I succeeded in developing a theoretical framework to assess the entropy production rate for driven-dissipative quantum systems undergoing phase transitions. 
 
 To explain shortly, “driven-dissipative” refers to the way its dynamics are modeled. It has one contribution from something that “pushes” or “drives” the system, conserving energy (unitary dynamics in the jargon of quantum mechanics), and another contribution that is “dissipative,” meaning it induces energy loss in the system, hence irreversibility. 
 
