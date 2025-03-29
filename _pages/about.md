@@ -50,36 +50,4 @@ Finally, just after defending my thesis I got the opportunity to join [Applied M
 
 Outside of work, I kickstart my day at the gym before heading into the office. After work, you’ll find me playing bass, guitar, or drums—either at home or in a studio. Evenings are for chilling, whether that means experimenting in the kitchen (Brazilian recipes with a French touch), swimming, learning a new language (currently Esperanto), or reading a classic novel. Some of my favorite authors include Gabriel Garcia Marquez, José Saramago, Machado de Assis, Franz Kafka, and Dostoyevski.
 
-
-### My (cool) blend of skills 
-
-After writing this page, I thought, "This might be too long… I should summarize it." So, naturally, I turned to AI for help. After letting ChatGPT crunch the text and curating the results, here's my refined, bullet-point version:
-
-**Technical & Analytical Skills**  
-- **Physics & Mathematics:** Solid background in quantum mechanics, statistical mechanics, and probability.  
-- **Quantum Technologies:** Experience in quantum thermodynamics and spin-photon interfaces.  
-- **Algorithm Development:** Designing solutions for semiconductor metrology.  
-- **Machine Learning & AI:** Knowledge in data science, deep learning, and numerical simulations.  
-- **Programming:** Proficient in Python, Mathematica, and computational modeling. Intermediate knowledge in Groovy and Java.
-
-**Research & Problem-Solving**  
-- **Theoretical Research:** Published papers and worked in emerging fields of physics.  
-- **Interdisciplinary Collaboration:** Worked with experimentalists in quantum optics, developers and application engineers.  
-- **Scientific Communication:** Presented research at international conferences.  
-- **Critical Thinking:** Combines an engineering and fundamental science mindset.  
-
-**Industry & Consulting Experience**  
-- **Algorithm Engineering:** Developing metrology and algorithms for industry.  
-- **Consulting & Client Interaction:** Balancing quick solutions with research-driven innovation.  
-- **Project Management:** Handling deadlines, teamwork, and problem-solving in a fast-paced environment.  
-
-**Soft Skills & Personal Interests**  
-- **Languages:** Fluent in Portuguese, English, and French. Can understand and read fluently in Spanish; learning Esperanto.  
-- **Teaching & Mentorship:** Experience tutoring students.  
-- **Music & Creativity:** Plays bass, guitar, and drums.  
-- **Cooking & Adaptability:** Loves experimenting with Brazilian and French cuisine.  
-- **Fitness & Discipline:** Passionate about weightlifting and self-improvement.  
-
-**OBS.:** Apart from the last summary section I only used artificial inteligence, chatGPT and grammarly, to check grammar, typos and obtain structure suggestions. Any imprecision, typo, or bad phrasing is my authorship.
-
 $\langle B \vert O \vert G \rangle$
